@@ -1,6 +1,6 @@
 # Intro
 
-Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chase. I'm Thi Nguyen, a senior developer who has 5+ years of experience in software development. To me, every line of code must be optimized, maintainable, and easy to scale. I believe we're not only developers, we're also owners of products who understand and bring solutions to solve customer's problems
+Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chase. I'm Thi Nguyen, a senior developer who has 6 years of experience in software development. To me, every line of code must be optimized, maintainable, and easy to scale. I believe we're not only developers, we're also owners of products who understand and bring solutions to solve customer's problems
 
 # Core Qualification
 
@@ -23,8 +23,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 - Solid experience on build tools: Webpack, Rollup, Babel, ESLint, Prettier, Lint Staged/Husky...
 - Worked with libraries in React ecosystem: Redux, React Router, Redux Toolkit, Redux Saga, Formilk, i18n...
 - Worked with micro-frontend architect using Module Federation
-- Worked with PWA, Ant Design, Material UI, TailwindCSS
-- Built a self UI components library: https://usy.github.com
+- Worked with PWA, Ant Design, Material UI
 
 ## Backend
 
@@ -35,8 +34,6 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 ## Server, Cloud
 
 - Worked with Amazon Lightsail, NGINX, Google APIs
-- Complete learning the AWS Dev Associate Course in Udemy
-- Apply xxx in my project: https://gobook.com
 
 ## Testing
 
@@ -44,107 +41,74 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 # Working Experience
 
-## DBS (Contracted with GFT): 01/2022 - Present
+## DBS (Contracted with GFT)
 
+- Time: 12/2021 - Present
 - Project:
   . Crypto Trading (SG)
   . Stock Trading (TW, SG, HK)
-
+- Tech stacks: ReactJS, Redux-toolkit, Styled-Components, Pact, i18n
 - Contribution
-  . I'm one of the 3 FE developers who work on the hardest module - Order Placement screen which requires to integrate with other modules...
-  . Volunteer to do a refactor using singleton pattern to adapt 3 markets on the same codebase
-  . After the success of Crypto Trading, we're trusted to build the Stock Trading for TW, SG, and HK markets instead of being cut off like other teams from other vendors of DBS
+  . As a part of more than 30 Singaporean, Indian and Vietnam developers, I'm responsible for developing the Order Placement module of Crypto Trading in both mobile and desktop layouts, do the modules integrations, bugs fixings and support other teams for requirement clarification
+  . Get meticulous on constructing UI, solutions approaches and clean code to prevent bugs in future
+  . Actively do a refactor using Singleton pattern to adapt 3 markets (TW, SG, HK) on the same codebase
+  . Base on the performance on Crypto trading, I'm trusted to continue developing the Stock Trading instead of being layoff like other vendor's members of DBS
 
-- What did I learn
-  . Get more familiar when working with Singaporean, and Indian co-workers
-  . Get more meticulous on UI, solve complex feature cases because of requirements of a big Fintech product
-  . Get more experience on solving complex problems on micro-frontend architect
-  . Get started with contract testing using Pact, FF4J
-  . Develop code reading for catching up the codebase
+## Xplor (Contracted with PTC)
 
-## Xplor (Contracted with PTC): 07/2021 - 12/2021
-
-- Project:
-  . Space Education - connect customers with childcare centers
-  . Space Fitness - connect customers with gym centers
-
-- Contribution
-  . Reviewed and pointed out some improvements on the codebase,give solutions and do some big refactors to make it more maintainable and scalable
-  . Understanding the concept of Agile methodology, I'm actively take a part of PO role when working with client and designer to catchup the requirements, write down ACs for User Stories in Sprint
-  . Always having solutions for technical issues in tech meeting, do the code review
-
-- What did I learn
-  . Get started developing SSR using NextJS and APIs using Hapi
-  . Truly understand the mindset and benefits of Agile methodology. Thus, I change mindset in working, take non-technical tasks as long as it create Increments and contribute to the Sprint Goal
-  . Get more experience on optimize loading performance, how to get a high score in Lighthouse
-
-## 3PL (Contracted with PTC): 01/2021 - 07/2021
-
-- Project:
-  . ReadiRacer - learning vocabulary and sentences via game
-  . Literacy CMS - manage vocabulary and sentences
-
-- Contribution
-  . Got a good feedback from Team Leader for catchup and handle tasks in the short time
-  . Do some refactors on a legacy and unmaintained codebase which is the base for developing new features. Thanks to it, I got the 3PLer prize in May (a monthly award for the best member)
-  . Make decisions, split tasks
-
-- What did I learn
-  . Get better at code refactoring, how to deal with a legacy code
-  . How to make technical decisions that other developers can follow
-  . Understand the benefit of Git-Flow
-
-## CoFounder Venture Partners: 05/2020 - 12/2020
-
+- Time: 07/2021 - 12/2021
 - Project
-  . Instacard - a bio link and business card online
-
+  . Space Education - connect customers with childcare centers
+  . Space Fitness - connect customers with fitness centers
+- Tech stacks: NextJS, NodeJS, MongoDB, Elastic Beanstalk, Cloudfront, Lighthouse
 - Contribution
-  . I'm the only technical guy who delivers business ideas to real app. After 2.5 months instead of 3 months, we finish the MVP version
-  . Setup both frontend and backend projects with a scalable structure. Therefore, I just take 1-2 days to implement or refactor a feature
-  . Mentor a fresher. After 1.5 months, she was confident to develop UI and APIs for a simple CRUD feature
-  . Research and deploy the project to Amazon Lightsail with NGINX, enable SSL certificate
-  . Research and apply PWA, and Google Contact APIs to adapt requirements
+  . Review and point out improvements on the codebase, give solutions, explain and do refactors to make the Space Education codebase more scalable
+  . Start from scratch, I'm the key FE member who defines and builds the Space Fitness codebase, libraries and coding approach to the team. Therefore, we're really fast on developing features or bug fixings. Moreover, I get a compliment from US team after transfer the code base to them
+  . Not only delivering features as requirement, I'm also improve the Space Fitness performance by applying tree-shaking, metrics on the bundle size and archive 87% of Lighthouse score
+  . Get deeper Agile methodology concepts after leaning from PM, I'm get out of developer mindset by actively clarify requirements with Project Owner and designer, write down the ACs for User Stories and test features to reduce QA's efforts
+  . Really understanding about the product, I'm always give solutions, positively discuss to solve technical issues on both FE or BE sides
 
-- What did I learn
-  . Setup a codebase for both Frontend and Backend
-  . Define database schemas, and develop APIs using Express, Mongoose
-  . Mentor a fresher. After 1.5 month, she was able to handle a CRUD feature
-  . Get started with PWA, NGINX, Amazon Lightsail, Redis
+## 3PL (Contracted with PTC)
+
+- Time: 01/2021 - 07/2021
+- Project
+  . ReadiRacer - learning vocabulary and sentences via games
+  . Literacy CMS - manage vocabulary and sentences
+- Tech stack: ReactJS, Redux Saga, ASP.NET, TeamCity
+- Contribution
+  . Got a compliment from Team Leader for quick catchup and delivery tasks in ReadiRacer
+  . After analyzing the legacy Literacy CMS codebase, I suggest and do a refactor to prepare for new features. Therefore, I got the 3PLer prize in May (a monthly award for the best developer)
+  . Base on the performance, I'm assigned to be the key FE member who gives the coding approach, split tasks
+
+## CoFounder Venture Partners
+
+- Time: 05/2020 - 12/2020
+- Project: Instacard - a bio link and business card online
+- Tech stacks: ReactJS, Redux-Thunk, NodeJS, MongoDB, PWA, NGINX, Amazon Lightsail
+- Contribution
+  . I'm the key developer who's responsible for setup codebase, delivery feature on both FE and BE. After 2.5 months, we finish the MVP version instead of 3 months
+  . Setup both FE and BE projects from scratch. Therefore, I just take 1-2 days to implement a feature or refactor
+  . Mentor a fresher. After 1.5 months, she was confident to develop UI and APIs for a simple CRUD feature
+  . Research Amazon Lightsail, NGINX, PWA, and Google Contact APIs to adapt business requirements
 
 ## Logivan: 09/2019 - 04/2020
 
 - Project
   . Shipper Web - allow shippers to place orders
   . Ops Tool - used by Operation Department
-
+- Tech stacks: ReactJS, Ant-Design
 - Contribution
-  . Responsible for developing Loginow - a flaship feature which allows customers to create transport cargo orders. By working closely, we have delivered that feature on time, the number of orders in that month increase efficiently
-  . Research and develop an incoming/outgoing call feature from web to mobile app using Stringee API. That helps Operation Department saving money instead of calling directly via physical phone
+  . Developing Loginow - a flagship feature for creating transport cargo orders. By working closely, we have delivered that feature on time, the number of orders in that month increase efficiently
+  . Research and develop an incoming/outgoing call feature using Stringee API
   . Maintain and develop the Ops Tool base on Operation department's requirements
-
-- What did I learn
-  . Truly understand product mindset
-  . Setup CI/CD using Bitrise
-  . Apply Storybook for visualizing component UI with designers
-  . Get deeper on Git branch, resolve conflicts, review code
 
 ## KMS: 10/2017 - 06/2019
 
-- Project
-  . HotSchedules - a platform for restaurant management from inventory to cash reconciliations
-
+- Project: HotSchedules - a platform for restaurant management from inventory to cash reconciliations
+- Tech stacks: ReactJS, Redux Observable, MongoDB, NodeJS
 - Contribution
-  . Joining the project as a fresher, I strictly follow and learn the coding standards, processes of software development, and business domain. Thanks for it, I'm able to handle user stories from 1 to 8 points
-  . I have also actively learned and worked as a backend developer to be flexible in delivering tasks
-  . Actively do the demo to PO after Sprints. My team always meets milestones on time and gets satisfaction from customers
-  . Be a key player when joining company activities as a photographer
-
-- What did I learn
-  . Get started developing SPA using React and its ecosystem
-  . Get started developing APIs using Express
-  . Understand what is unit testing using Jest and Enzyme
-  . Understand how a scrum team works
+  . As a fresher, I strictly follow and learn the coding standards, processes of software development, and business domain. Thanks for it, I'm able to handle user stories up to 8 points
+  . Actively learned and worked as a backend developer to be flexible in delivering tasks
 
 # Education
 

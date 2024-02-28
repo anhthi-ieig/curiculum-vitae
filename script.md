@@ -5,12 +5,12 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 # Core Qualification
 
 - Solid understanding on software development using in Agile/Scrum
-- Practical experience on developing a scalable frontend codebase from scratch using SPA(ReactJS) or SSR(NextJS)
-- Practical experience on defining database models and building RESTful APIs using NodeJS and MongoDB
-- Practical experience from loosely process to strictly process, from product to outsourcing companies with various fields such as FinTech, Education, Logistics...
-- Familiar on working with foreign co-workers (Singapore, India, Australia,...)
-- Familiar on working with Jira, Confluence, Figma, Git (Github/Gitlab/Bitbucket)
-- Keep a bright mind and be healthy by reading books, trekking, and gym. There is no conflicts with anyone during working time
+- Practical experience on developing a scalable frontend codebase from scratch (ReactJS, NextJS)
+- Practical experience on building RESTful APIs (NodeJS, Golang)
+- Adapt well from loosely process to strictly process, from product to outsourcing companies in various fields such as FinTech, Education, Logistics...
+- Familiar on working with Jira, Confluence, Figma, Git...
+- Work well with foreign co-workers (Singapore, India, Australia,...)
+- Keep a bright mind and being healthy by reading books, trekking, and gym. There is no conflicts with anyone during working time
 
 # Technical Skills
 
@@ -23,13 +23,12 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 - Solid experience on build tools: Webpack, Rollup, Babel, ESLint, Prettier, Lint Staged/Husky...
 - Worked with libraries in React ecosystem: Redux, React Router, Redux Toolkit, Redux Saga, Formilk, i18n...
 - Worked with micro-frontend architect using Module Federation
-- Worked with PWA, Ant Design, Material UI
+- Worked with PWA, Ant Design, Material UI...
 
 ## Backend
 
-- Practical experience on develop APIs using Hapi, Express
-- Analyze, define models schemas and interact with MongoDB via Mongoose
-- Applied Redis to optimize API performance
+- Practical experience on developing APIs using NodeJS (Hapi, Express), Golang
+- Analyze, define models schemas using with MongoDB, Mongoose
 
 ## Server, Cloud
 
@@ -37,48 +36,54 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 ## Testing
 
-- Practical experience in Jest, Enzyme, React Testing Library and Cypress
+- Practical experience in Unit Test using Jest, Enzyme, React Testing Library
 
 # Working Experience
 
-## DBS (Contracted with GFT)
+## GFT Technologies Vietnam
 
 - Time: 12/2021 - Present
-- Project:
+- Client: DBS Bank
+- Projects:
   . Crypto Trading (SG)
-  . Stock Trading (TW, SG, HK)
-- Tech stacks: ReactJS, Redux-toolkit, Styled-Components, Pact, i18n
+  . Stock Trading (SG, HK, TW)
+  . Your Financial Journey - Insurance (SG, HK, TW)
+- Tech stacks: Micro-frontends, ReactJS, Redux Saga, Redux-Toolkit, Styled-Components, Pact, i18n...
 - Contribution
-  . As a part of more than 30 Singaporean, Indian and Vietnam developers, I'm responsible for developing the Order Placement module of Crypto Trading in both mobile and desktop layouts, do the modules integrations, bugs fixings and support other teams for requirement clarification
-  . Get meticulous on constructing UI, solutions approaches and clean code to prevent bugs in future
-  . Actively do a refactor using Singleton pattern to adapt 3 markets (TW, SG, HK) on the same codebase
-  . Base on the performance on Crypto trading, I'm trusted to continue developing the Stock Trading instead of being layoff like other vendor's members of DBS
+  . Starting with Crypto Trading, my mainly tasks are estimating, delivering features in Order Placement module on mobile layout, solving tech issues and feature conflicts when doing modules integration(~8 teams, 8 modules). Thanks for good feedbacks from client, we are trusted to continue developing the Stock Trading product
+  . Volunteer doing a refactor using Singleton pattern to adapt 2 more markets (TW, HK) on the current Stock Trading codebase (SG)
+  . After some vendors cut-off waves, I'm one of 3 FE developers who handles 8 previous modules, get done the desktop layout enhancement, code refactoring and bugs fixing for Crypto Trading project
+  . Being more meticulous on constructing UI, coding catchup and communication are getting to a higher level
+  . Up to now, I had more than 2 years serving for DBS success after a lot of vendors cut-off waves
+
+## PTC
 
 ## Xplor (Contracted with PTC)
 
 - Time: 07/2021 - 12/2021
+- Client: Xplor
 - Project
   . Space Education - connect customers with childcare centers
   . Space Fitness - connect customers with fitness centers
 - Tech stacks: NextJS, NodeJS, MongoDB, Elastic Beanstalk, Cloudfront, Lighthouse
 - Contribution
   . Review and point out improvements on the codebase, give solutions, explain and do refactors to make the Space Education codebase more scalable
-  . Start from scratch, I'm the key FE member who defines and builds the Space Fitness codebase, libraries and coding approach to the team. Therefore, we're really fast on developing features or bug fixings. Moreover, I get a compliment from US team after transfer the code base to them
+  . Start from scratch, I'm the key FE member who defines and builds the Space Fitness codebase, libraries and coding approach to the team. Therefore, I get a compliment after transferring the code base to US team
   . Not only delivering features as requirement, I'm also improve the Space Fitness performance by applying tree-shaking, metrics on the bundle size and archive 87% of Lighthouse score
-  . Get deeper Agile methodology concepts after leaning from PM, I'm get out of developer mindset by actively clarify requirements with Project Owner and designer, write down the ACs for User Stories and test features to reduce QA's efforts
-  . Really understanding about the product, I'm always give solutions, positively discuss to solve technical issues on both FE or BE sides
+  . Get deeper Agile methodology concepts after leaning from PM, I'm get out of developer mindset by actively clarify requirements with Project Owner and designer, write down the ACs for User Stories and support testing to reduce QA's efforts
 
 ## 3PL (Contracted with PTC)
 
 - Time: 01/2021 - 07/2021
+- Client: 3P Learning
 - Project
   . ReadiRacer - learning vocabulary and sentences via games
   . Literacy CMS - manage vocabulary and sentences
 - Tech stack: ReactJS, Redux Saga, ASP.NET, TeamCity
 - Contribution
-  . Got a compliment from Team Leader for quick catchup and delivery tasks in ReadiRacer
+  . Got a compliment from Team Leader for quick catchup and delivery tasks in ReadiRacer at the first time
   . After analyzing the legacy Literacy CMS codebase, I suggest and do a refactor to prepare for new features. Therefore, I got the 3PLer prize in May (a monthly award for the best developer)
-  . Base on the performance, I'm assigned to be the key FE member who gives the coding approach, split tasks
+  . Base on the performance, I was assigned to be the key FE member who makes the coding approach, split tasks...
 
 ## CoFounder Venture Partners
 
@@ -100,7 +105,6 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 - Contribution
   . Developing Loginow - a flagship feature for creating transport cargo orders. By working closely, we have delivered that feature on time, the number of orders in that month increase efficiently
   . Research and develop an incoming/outgoing call feature using Stringee API
-  . Maintain and develop the Ops Tool base on Operation department's requirements
 
 ## KMS: 10/2017 - 06/2019
 
@@ -112,8 +116,9 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 # Education
 
-- Got a Profession Bachelor of Computer Technology from AeU University
-- Complete learning 6 courses in Udemy
+- Got a Bachelor's Degree from AeU University
+- Completed learning 6 Udemy courses related to advanced Javascript, ReactJS, NodeJS, Micro-frontends, and PWA
+- More than 8 Udemy courses related to AWS, Microservices, Docker, Kubernetes are in learning process
 
 # Goals and Expectations
 

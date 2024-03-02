@@ -50,7 +50,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
   . Your Financial Journey - Insurance (SG, HK, TW)
 - Tech stacks: Micro-frontends, ReactJS, Redux Saga, Redux-Toolkit, Styled-Components, Pact, i18n...
 - Contribution
-  . Starting with Crypto Trading, my mainly tasks are estimating, delivering features in Order Placement module on mobile layout, solving tech issues and feature conflicts when doing modules integration(~8 teams, 8 modules). Thanks for good feedbacks from client, we are trusted to continue developing the Stock Trading product
+  . Starting with Crypto Trading, my mainly tasks are estimating, delivering features for Order Placement module in mobile layout, solving tech issues and feature conflicts when doing modules integration(~8 teams, 8 modules). Thanks for good feedbacks from client, we are trusted to continue developing the Stock Trading product
   . Volunteer doing a refactor using Singleton pattern to adapt 2 more markets (TW, HK) on the current Stock Trading codebase (SG)
   . After some vendors cut-off waves, I'm one of 3 FE developers who handles 8 previous modules, get done the desktop layout enhancement, code refactoring and bugs fixing for Crypto Trading project
   . Being more meticulous on constructing UI, coding catchup and communication are getting to a higher level
@@ -111,7 +111,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 - Project: HotSchedules - a platform for restaurant management from inventory to cash reconciliations
 - Tech stacks: ReactJS, Redux Observable, MongoDB, NodeJS
 - Contribution
-  . As a fresher, I strictly follow and learn the coding standards, processes of software development, and business domain. Thanks for it, I'm able to handle user stories up to 8 points
+  . As a fresher, I strictly follow and learn the coding standards, process of software development, and business domain. Thanks for it, I'm able to handle user stories up to 8 points
   . Actively learned and worked as a backend developer to be flexible in delivering tasks
 
 # Education

@@ -8,7 +8,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 - Practical experience on developing a scalable frontend codebase from scratch (ReactJS, NextJS)
 - Practical experience on building RESTful APIs (NodeJS, Golang)
 - Adapt well from loosely process to strictly process, from product to outsourcing companies in various fields such as FinTech, Education, Logistics...
-- Familiar on working with Jira, Confluence, Figma, Git...
+- Familiar on working with Jira, Confluence, Figma, Git, Gitflow...
 - Work well with foreign co-workers (Singapore, India, Australia,...)
 - Keep a bright mind and being healthy by reading books, trekking, and gym. There is no conflicts with anyone during working time
 
@@ -19,7 +19,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 - Solid experience on Javascript(ES5/ES6) and Typescript
 - Solid experience on ReactJS: Virtual DOM, Class/Hooks, HOCs, Refs, ContextAPI, Render Props...
 - Solid experience on NextJS: Server Side Rendering, Static Site Generation, Prefetching...
-- Solid experience on stylesheet: Styled Component, LESS/SASS, Flexbox, Grid, Media Query...
+- Solid experience on stylesheet: Styled Component, Storybook, LESS/SASS, Flexbox, Grid, Media Query...
 - Solid experience on build tools: Webpack, Rollup, Babel, ESLint, Prettier, Lint Staged/Husky...
 - Worked with libraries in React ecosystem: Redux, React Router, Redux Toolkit, Redux Saga, Formilk, i18n...
 - Worked with micro-frontend architect using Module Federation
@@ -62,7 +62,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 - Time: 07/2021 - 12/2021
 - Client: Xplor
-- Project
+- Projects
   . Space Education - connect customers with childcare centers
   . Space Fitness - connect customers with fitness centers
 - Tech stacks: NextJS, NodeJS, MongoDB, Elastic Beanstalk, Cloudfront, Lighthouse
@@ -76,10 +76,10 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 - Time: 01/2021 - 07/2021
 - Client: 3P Learning
-- Project
+- Projects
   . ReadiRacer - learning vocabulary and sentences via games
   . Literacy CMS - manage vocabulary and sentences
-- Tech stack: ReactJS, Redux Saga, ASP.NET, TeamCity
+- Tech stack: ReactJS, Redux Saga, ASP.NET, TeamCity, Gitflow...
 - Contribution
   . Got a compliment from Team Leader for quick catchup and delivery tasks in ReadiRacer at the first time
   . After analyzing the legacy Literacy CMS codebase, I suggest and do a refactor to prepare for new features. Therefore, I got the 3PLer prize in May (a monthly award for the best developer)
@@ -88,7 +88,8 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 ## CoFounder Venture Partners
 
 - Time: 05/2020 - 12/2020
-- Project: Instacard - a bio link and business card online
+- Projects:
+  . Instacard - a bio link and business card online
 - Tech stacks: ReactJS, Redux-Thunk, NodeJS, MongoDB, PWA, NGINX, Amazon Lightsail
 - Contribution
   . I'm the key developer who's responsible for setup codebase, delivery feature on both FE and BE. After 2.5 months, we finish the MVP version instead of 3 months
@@ -98,7 +99,7 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 ## Logivan: 09/2019 - 04/2020
 
-- Project
+- Projects
   . Shipper Web - allow shippers to place orders
   . Ops Tool - used by Operation Department
 - Tech stacks: ReactJS, Ant-Design
@@ -108,7 +109,8 @@ Integrity, Emotion, Innovation, and Giving are four key lifestyles I always chas
 
 ## KMS: 10/2017 - 06/2019
 
-- Project: HotSchedules - a platform for restaurant management from inventory to cash reconciliations
+- Projects:
+  . HotSchedules - a platform for restaurant management from inventory to cash reconciliations
 - Tech stacks: ReactJS, Redux Observable, MongoDB, NodeJS
 - Contribution
   . As a fresher, I strictly follow and learn the coding standards, process of software development, and business domain. Thanks for it, I'm able to handle user stories up to 8 points
